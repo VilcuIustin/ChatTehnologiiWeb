@@ -1,0 +1,35 @@
+.bg{
+    background-color: #0E0A19;
+    height: 100vh;
+}
+
+.left-panel{
+    /*background-color: #7A2B97;*/
+    background-color: #323232;
+}
+
+.culoare{
+    background-color: #0E0A19;
+}
+.culoarechat{
+    background-color: #1E1E1E;
+}
+.culoareheader, .bg1{
+    background-color: #2B2B2B;
+}
+
+.bordercolor{
+    border: 3px solid #313335;
+}
+#dreapta{
+    height: auto;
+    max-height: 88vh;
+}
+#groups{
+    height: auto;
+    max-height: 95vh;
+}
+#conv-header{
+    height: 7vh;
+}
+
